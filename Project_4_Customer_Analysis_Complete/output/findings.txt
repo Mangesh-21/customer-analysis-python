@@ -1,0 +1,9 @@
+Project 4 - Customer Analysis
+Data: sample customer orders (not real customer records)
+Total orders: 480
+Total customers: 40
+Total sales amount: Rs. 1,695,309.40
+Highest spending customer: Pooja Pawar (Rs. 126,578.10)
+Orders by highest spending customer: 30
+Most frequent buyer: Aarav Patil (35 orders)
+Top 10 customers are ranked by total amount spent, not just number of orders.
